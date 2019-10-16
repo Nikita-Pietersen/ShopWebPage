@@ -1,0 +1,33 @@
+#Pink{
+	background-color: #ff548a;
+}
+
+body{
+	font-style: italic;
+	font-family: georgia;
+}
+
+#Body{
+	font-size: 25px;
+	text-decoration: underline;
+	text-shadow: 1px 1px #000000;
+	color: #e84176;
+}
+
+#oneA img{
+	padding: 2px;
+	width: 200px;
+	height: 200px;
+}
+
+#oneB img{
+	padding: 2px;
+	width: 200px;
+	height: 200px;
+}
+
+#oneC img{
+	padding: 2px;
+	width: 200px;
+	height: 200px;
+}
